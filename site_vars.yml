@@ -1,0 +1,6 @@
+
+# vars/site_vars.yml
+# Variables pour la personnalisation du site et la securite
+site_title: "TP Ansible Avance : Deploiement Dynamique"
+site_owner: "soukaina@tp-ansible"
+server_tokens_value: "Prod" # Utilise 'Prod' au lieu de 'Full' pour cacher la version du serveur
